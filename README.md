@@ -230,10 +230,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Umar J**
-- Portfolio: [Your Portfolio URL]
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
 ## 🙏 Acknowledgments
 
 - Font Awesome for icons
@@ -242,7 +238,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🐛 Bug Reports & Feature Requests
 
-Please use the [GitHub Issues](https://github.com/yourusername/securegen-password-generator/issues) page to report bugs or request features.
+Please use the [GitHub Issues](https://github.com/umarJ-max/securegen-password-generator/issues) page to report bugs or request features.
 
 ---
 
